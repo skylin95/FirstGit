@@ -1,2 +1,2 @@
 This is my first file of git.
-Do you understand?
+The beautiful girl is my girlfriend!^_^
